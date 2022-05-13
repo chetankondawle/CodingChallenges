@@ -25,7 +25,6 @@ public class ReturnMiddleOfLinkedList {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
 		
 	}
 
